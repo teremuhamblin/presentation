@@ -3,11 +3,8 @@
 <p align="left">"Field of interests: AGI, NLP, RL, Graphs, Distributed Systems"
     </p>
 <br>
-My name is T****u<!-- the bold part is the origin of my ID -->. I am a technician.
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-teremuhamblin.vercel.app/api?username=teremuhamblin&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-teremuhamblin.vercel.app/api?username=teremuhamblin&show_icons=true">
-</picture>
+My name is T****u<!-- the bold part is the origin of my ID -->, i am a technician.
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/teremuhamblin/readme-components)
 
 -   :pencil2: C++ / TypeScript / Vue / Rust / Python / SystemVerilog
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
