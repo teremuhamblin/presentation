@@ -55,7 +55,7 @@ XML            4 mins          ░░░░░░░░░░░░░░░░�
 
 <details>
     <summary>
-        CV détaillé
+        In addition
     </summary>
 </p>
 <br>
@@ -64,7 +64,7 @@ XML            4 mins          ░░░░░░░░░░░░░░░░�
 This project is made possible by all the sponsors supporting my work:
 
 <p align="center">
-  <a href="https://github.com/sponsors/teremuhamblin">
+  <a href=(https://github.com/sponsors/teremuhamblin/waitlist)">
     <img src='https://cdn.jsdelivr.net/gh/teremuhamblin/static/sponsors.svg'/>
   </a>
 </p>
