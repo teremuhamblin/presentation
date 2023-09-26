@@ -1,4 +1,4 @@
-# <p align="center"> "Presentation <b>WHOAM-I" 🧑‍💻👩‍💻
+# <p align="center"> "Hey there <b>WHOAM-I" 🧑‍💻👩‍💻
 <p align="left">Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source
 <p align="left">Field of interests: AGI, NLP, RL, Graphs, Distributed Systems
     </p>
@@ -6,7 +6,9 @@
 My name is T****u<!-- the bold part is the origin of my ID -->, i am a technician.
     </p>
 <br>
--   :pencil2: C++ / TypeScript / Vue / Rust / Python / SystemVerilog
+
+# **Languages and tools:**  
+-   :pencil: C++ / TypeScript / Vue / Rust / Python / SystemVerilog
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Doing some network security research with @chenjj
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
@@ -15,8 +17,6 @@ My name is T****u<!-- the bold part is the origin of my ID -->, i am a technicia
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/teremuhamblin.gpg)
     </p>
 <br>
-
-# **Languages and tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
