@@ -58,7 +58,7 @@ XML            4 mins          ░░░░░░░░░░░░░░░░�
 <br>
     
 ### Sponsors
-This project is made possible by all the sponsors supporting my work:
+This project is made possible by all the sponsors supporting.
 
 <p align="center">
   <a href=(https://github.com/sponsors/teremuhamblin/waitlist)">
