@@ -1,3 +1,5 @@
+! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=teremuhamblin&show_icons=true
+
 # <p align="center"> "Hey there <b>WHOAM-I" 🧑‍💻👩‍💻
 <p align="left">Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source
 <p align="left">Field of interests: AGI, NLP, RL, Graphs, Distributed Systems
