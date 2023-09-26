@@ -1,16 +1,15 @@
 # <p align="center"> "Hey there <b>WHOAM-I" 🧑‍💻👩‍💻
 <p align="left">Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source
-<p align="left">Field of interests: AGI, NLP, RL, Graphs, Distributed Systems
-    </p>
-<br>
 My name is T****u<!-- the bold part is the origin of my ID -->, i am a technician.
  </p>
 <br>
- ## 1. Statistiques GitHub: Statistiques de votre référentiel
- ## 2. Langues les plus utilisées: Statistiques de votre référentiel
- ## 3. Badge des contributeurs: Statistiques de votre référentiel
- ## 4. Générateur de blagues aléatoires: Carte de blagues
- ## 5. Compteur de vues de profil: Statistique de votre référenciel
+
+<p align="left">Field of interests: AGI, NLP, RL, Graphs, Distributed Systems
+ # <p align="left">1. Statistiques GitHub: Statistiques de votre référentiel
+ # <p align="left">2. Langues les plus utilisées: Statistiques de votre référentiel
+ # <p align="left">3. Badge des contributeurs: Statistiques de votre référentiel
+ # <p align="left">4. Générateur de blagues aléatoires: Carte de blagues
+ # <p align="left">5. Compteur de vues de profil: Statistique de votre référenciel
  </p>
 <br>
 
