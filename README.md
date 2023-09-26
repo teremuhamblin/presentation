@@ -5,11 +5,11 @@
 <br>
 
 <p align="left">Field of interests: AGI, NLP, RL, Graphs, Distributed Systems
- # <p align="left">1. Statistiques GitHub: Statistiques de votre référentiel
- # <p align="left">2. Langues les plus utilisées: Statistiques de votre référentiel
- # <p align="left">3. Badge des contributeurs: Statistiques de votre référentiel
- # <p align="left">4. Générateur de blagues aléatoires: Carte de blagues
- # <p align="left">5. Compteur de vues de profil: Statistique de votre référenciel
+<p align="left">1. Statistiques GitHub: Statistiques de votre référentiel
+<p align="left">2. Langues les plus utilisées: Statistiques de votre référentiel
+<p align="left">3. Badge des contributeurs: Statistiques de votre référentiel
+<p align="left">4. Générateur de blagues aléatoires: Carte de blagues
+<p align="left">5. Compteur de vues de profil: Statistique de votre référenciel
  </p>
 <br>
 
