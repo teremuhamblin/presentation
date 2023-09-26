@@ -1,18 +1,18 @@
 # <p align="center"> "Presentation <b>WHOAM-I" 🧑‍💻👩‍💻
-<p align="left">"Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source"
-<p align="left">"Field of interests: AGI, NLP, RL, Graphs, Distributed Systems"
+<p align="left">Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source
+<p align="left">Field of interests: AGI, NLP, RL, Graphs, Distributed Systems
     </p>
 <br>
 My name is T****u<!-- the bold part is the origin of my ID -->, i am a technician.
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/teremuhamblin/readme-components)
-
+    </p>
+<br>
 -   :pencil2: C++ / TypeScript / Vue / Rust / Python / SystemVerilog
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Doing some network security research with @chenjj
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
 -   :mag: [CVEs discovered by me](CVE.md)
 -   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/teremuhamblin.gpg)
     </p>
 <br>
 
