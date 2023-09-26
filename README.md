@@ -1,5 +1,5 @@
 # <p align="center"> "Presentation <b>WHOAM-I" 🧑‍💻👩‍💻
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -65,7 +65,6 @@ This project is made possible by all the sponsors supporting my work:
 
 <p align="center">
   <a href=(https://github.com/sponsors/teremuhamblin/waitlist)">
-    <img src='https://cdn.jsdelivr.net/gh/teremuhamblin/static/sponsors.svg'/>
   </a>
 </p>
 <br>
