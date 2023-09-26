@@ -1,5 +1,25 @@
 # <p align="center"> "Presentation <b>WHOAM-I" 🧑‍💻👩‍💻
-**Languages and tools:**  
+<p align="left">"Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source"
+<p align="left">"Field of interests: AGI, NLP, RL, Graphs, Distributed Systems"
+    </p>
+<br>
+My name is T****u<!-- the bold part is the origin of my ID -->. I am a technician.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-teremuhamblin.vercel.app/api?username=teremuhamblin&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-teremuhamblin.vercel.app/api?username=teremuhamblin&show_icons=true">
+</picture>
+
+-   :pencil2: C++ / TypeScript / Vue / Rust / Python / SystemVerilog
+-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
+-   :seedling: Doing some network security research with @chenjj
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
+-   :mag: [CVEs discovered by me](CVE.md)
+-   :star: [Projects starred by me](AWESOME-STARS.md)
+-   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+    </p>
+<br>
+
+# **Languages and tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -11,7 +31,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-## Features: 📊 **I spent my time on:**
+</p>
+<br>
+
+# Features: 📊 **I spent my time on:**
 <!--START_SECTION:waka-->
 </p>
 <br>
@@ -57,7 +80,7 @@ XML            4 mins          ░░░░░░░░░░░░░░░░�
 </p>
 <br>
     
-### Sponsors
+# Sponsors
 This project is made possible by all the sponsors supporting.
 
 <p align="center">
