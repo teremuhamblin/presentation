@@ -64,8 +64,8 @@ XML            4 mins          ░░░░░░░░░░░░░░░░�
 This project is made possible by all the sponsors supporting my work:
 
 <p align="center">
-  <a href="https://github.com/sponsors/antfu">
-    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg'/>
+  <a href="https://github.com/sponsors/teremuhamblin">
+    <img src='https://cdn.jsdelivr.net/gh/teremuhamblin/static/sponsors.svg'/>
   </a>
 </p>
 <br>
