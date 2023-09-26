@@ -1,4 +1,4 @@
-! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=teremuhamblin&show_icons=true
+! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true
 
 # <p align="center"> "Hey there <b>WHOAM-I" 🧑‍💻👩‍💻
 <p align="left">Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source
@@ -89,5 +89,6 @@ This project is made possible by all the sponsors supporting.
 <br>
 
 #### License
+! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true
 OPEN SOURCES © 2023 [teremuhamblin](https://github.com/teremuhamblin)
 
