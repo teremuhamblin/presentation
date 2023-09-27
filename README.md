@@ -1,6 +1,6 @@
 <p align="center"> "Hey there <b>WHOAM-I" 🧑‍💻👩‍💻
 <p align="left">Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source.
-<p align="left">My name is T****u<!-- the bold part is the origin of my ID -->, i am a technician.
+<p align="left">My name is T*****, i am a technician.
  </p>
 <br>
 
