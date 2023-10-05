@@ -44,11 +44,11 @@
 
 ```
 Texte
-Bash           2 hrs 27 mins   ███████████████████████░░   92.01 %
-JavaScript     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Typescripts    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-ActionScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-XML            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Bash           5 hrs 27 mins   ███████████████████████░░   96.01 %
+JavaScript     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Typescripts    1 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   36.92 %
+ActionScript   2 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   38.64 %
+XML            5 hrs 5 mins    ███████████████░░░░░░░░░░   72.55 %
 ```
 </p>
 <br>
@@ -93,5 +93,5 @@ This project is made possible by all the sponsors supporting.
 <br>
 
 #### License
-OPEN SOURCES © 2023 [teremuhamblin](https://github.com/teremuhamblin)
+OPEN SOURCES © 2023 [The MadDoG.TMDG](https://github.com/teremuhamblin)
 
