@@ -13,13 +13,13 @@
 
 <p align="left">1. # **Computer science is concerned with the implementation of scientific methods to process information using computers. It particularly enriches the following areas: Business management and financial exchanges. Communications of all kinds.** 
 <p align="left">2. # **Languages and tools:**  
--   :pencil: C++ / TypeScript / Vue / Rust / Python / SystemVerilog
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Doing some network security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/teremuhamblin/discussions/new)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/teremuhamblin.gpg)
+-   :pencil: C++ / TypeScript / Shell / Vue / Rust / Python / SystemVerilog
+-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
+-   :seedling: Doing some security research for Javascript / React / Git 
+-   :thought_balloon: Ask anything at [Github](https://github.com/)!
+-   :mag: [CVEs discovered](CVE.md) from Cpp / Nodejs
+-   :star: [Projects starred](STARS.md) from Graphql / Mysql / Firebase
+-   :key: GPG key: [`16digits`](https://github.com/user_profil.gpg)
     </p>
 <br>
 
@@ -36,7 +36,7 @@
 </p>
 <br>
 
-<p align="left">1.**# Features: 📊 **I spent my time on:**
+<p align="left">3. **# Features: 📊 **I spent my time on:**
 <!--START_SECTION:waka-->
 </p>
 <br>
