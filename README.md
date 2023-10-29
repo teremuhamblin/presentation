@@ -13,13 +13,13 @@
 
 <p align="left">1. # **Computer science is concerned with the implementation of scientific methods to process information using computers. It particularly enriches the following areas: Business management and financial exchanges. Communications of all kinds.** 
 <p align="left">2. # **Languages and tools:**  
--   :pencil: C++ / TypeScript / Shell / Vue / Rust / Python / SystemVerilog
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
--   :seedling: Doing some security research for Javascript / React / Git 
--   :thought_balloon: Ask anything at [Github](https://github.com/)!
--   :mag: [CVEs discovered](CVE.md) from Cpp / Nodejs
--   :star: [Projects starred](STARS.md) from Graphql / Mysql / Firebase
--   :key: GPG key: [`16digits`](https://github.com/user_profil.gpg)
+<p align="left">-   :pencil: C++ / TypeScript / Shell / Vue / Rust / Python / SystemVerilog
+<p align="left">-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
+<p align="left">-   :seedling: Doing some security research for Javascript / React / Git 
+<p align="left">-   :thought_balloon: Ask anything at [Github](https://github.com/)!
+<p align="left">-   :mag: [CVEs discovered](CVE.md) from Cpp / Nodejs
+<p align="left">-   :star: [Projects starred](STARS.md) from Graphql / Mysql / Firebase
+<p align="left">-   :key: GPG key: [`16digits`](https://github.com/user_profil.gpg)
     </p>
 <br>
 
