@@ -69,12 +69,6 @@ XML            4 hrs 5 mins    ███████████████    
 </p>
 <br>
 
-<p align="left">4. # **| My own statistics | | |**
-| :---: |:---:| :---:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teremuhamblin&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=teremuhamblin&show_icons=true&theme=radical&count_private=true) |
-</p>
-<br>
-
 <details>
     <summary>
         In addition
