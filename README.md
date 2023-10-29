@@ -1,19 +1,18 @@
 <p align="center"> "Hey there <b>WHOAM-I" 🧑‍💻👩‍💻
 <p align="left">Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source.
-<p align="left">My name is T*****, i am a technician.
+<p align="left">I am a kind of engeneering system 
  </p>
 <br>
 
-<p align="left">Field of interests: AGI, NLP, RL, Graphs, Distributed Systems
-<p align="left">1. Statistiques GitHub: Statistiques de votre référentiel
-<p align="left">2. Langues les plus utilisées: Statistiques de votre référentiel
-<p align="left">3. Badge des contributeurs: Statistiques de votre référentiel
-<p align="left">4. Générateur de blagues aléatoires: Carte de blagues
-<p align="left">5. Compteur de vues de profil: Statistique de votre référenciel
+<p align="left">1. Field of interests and all about IT
+<p align="left">2. Languages and tools
+<p align="left">3. Features
+<p align="left">4. Statistics of your repository
  </p>
 <br>
 
-# **Languages and tools:**  
+<p align="left">1. # **Computer science is concerned with the implementation of scientific methods to process information using computers. It particularly enriches the following areas: Business management and financial exchanges. Communications of all kinds.** 
+<p align="left">2. # **Languages and tools:**  
 -   :pencil: C++ / TypeScript / Vue / Rust / Python / SystemVerilog
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Doing some network security research with @chenjj
@@ -37,7 +36,7 @@
 </p>
 <br>
 
-# Features: 📊 **I spent my time on:**
+<p align="left">1.**# Features: 📊 **I spent my time on:**
 <!--START_SECTION:waka-->
 </p>
 <br>
@@ -70,7 +69,7 @@ XML            4 hrs 5 mins    ███████████████    
 </p>
 <br>
 
-| Quelques statistiques | | |
+<p align="left">4. # **| My own statistics | | |**
 | :---: |:---:| :---:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teremuhamblin&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=teremuhamblin&show_icons=true&theme=radical&count_private=true) |
 </p>
@@ -92,6 +91,6 @@ This project is made possible by all the sponsors supporting.
 </p>
 <br>
 
-#### License
+# License
 OPEN SOURCES © 2023 [The MadDoG.TMDG](https://github.com/teremuhamblin)
 
