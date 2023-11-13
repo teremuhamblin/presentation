@@ -19,7 +19,7 @@
 <p align="left">-   :thought_balloon: Ask anything at [Github](https://github.com/)!
 <p align="left">-   :mag: [CVEs discovered](CVE.md) from Cpp / Nodejs
 <p align="left">-   :star: [Projects starred](STARS.md) from Graphql / Mysql / Firebase
-<p align="left">-   :key: GPG key: [`16digits`](https://github.com/user_profil.gpg)
+<p align="left">-   :key: GPG key: [`3AA5C34371567BD2`]
     </p>
 <br>
 
