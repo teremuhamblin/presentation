@@ -54,7 +54,7 @@ XML            4 hrs 5 mins    ███████████████    
 
 - 📝 [**Markdown-based**](https://sli.dev/guide/syntax.html) - use your favorite editors and workflow
 - 🧑‍💻 [**Developer Friendly**](https://sli.dev/guide/syntax.html#code-blocks) - built-in syntax highlighting, live coding, etc.
-- 🎨 [**Themable**](https://sli.dev/themes/gallery.html) - theme can be shared and used with npm packages.
+- 🎨 [**Themable**](https://sli.dev/themes/gallery.html) - theme can be shared and uded with npm packages.
 - 🌈 [**Stylish**](https://sli.dev/guide/syntax.html#embedded-styles) - on-demand utilities via [UnoCSS](https://github.com/unocss/unocss).
 - 🤹 [**Interactive**](https://sli.dev/custom/directory-structure.html#components) - embedding Vue components seamlessly.
 - 🎙 [**Presenter Mode**](https://sli.dev/guide/presenter-mode.html) - use another window, or even your phone to control your slides.
@@ -85,6 +85,6 @@ This project is made possible by all the sponsors supporting.
 </p>
 <br>
 
-# License
+# Licence
 OPEN SOURCES © 2023 [The MadDoG.TMDG](https://github.com/teremuhamblin)
 
