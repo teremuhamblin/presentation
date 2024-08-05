@@ -7,7 +7,7 @@
 <p align="left">1. Field of interests and all about IT
 <p align="left">2. Languages and tools
 <p align="left">3. Features
-<p align="left">4. Statistics of your repository
+<p align="left">4. Repository
  </p>
 <br>
 
