@@ -5,7 +5,7 @@
 <br>
 
 <p align="left">1. Field of interests and all about IT
-<p align="left">2. Languages and tools
+<p align="left">2. Languages
 <p align="left">3. Features
 <p align="left">4. Repository
  </p>
