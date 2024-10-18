@@ -11,7 +11,7 @@
  </p>
 <br>
 
-<p align="left">1. # **Computer science is concerned with the implementation of scientific methods to process information using computers. It particularly enriches the following areas: Business management and financial exchanges. Communications of all kinds.** 
+<p align="left">1. # **Computer sciences is concerned with the implementation of scientific methods to process information using computers. It particularly enriches the following areas: Business management and financial exchanges. Communications of all kinds.** 
 <p align="left">2. # **Languages and tools:**  
 <p align="left">-   :pencil: C++ / TypeScript / Shell / Vue / Rust / Python / SystemVerilog
 <p align="left">-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
