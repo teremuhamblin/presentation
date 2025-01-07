@@ -1,4 +1,4 @@
-<p align="center"> "Hey there <b>WHO I AM" 🧑‍💻👩‍💻
+<p align="center"> "Hey U <b>WHO I AM" 🧑‍💻👩‍💻
 <p align="left">Hi, my name is the maddog 👋 and I ❤️ AI and Open-Source.
 <p align="left">I am a kind of engeneering system 
  </p>
