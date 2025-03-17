@@ -1,5 +1,5 @@
 <p align="center"> "Hey U <b>WHO I AM" 🧑‍💻👩‍💻
-<p align="left">Hi, i am the maddog 👋 and I ❤️ AI and Open-Source.
+<p align="left">Hi, i am the maddog 👋 and I ❤️ AI and Open-Source...
 <p align="left">I am a kind of engeneering system 
  </p>
 <br>
